@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430948119466",
+    "project_id": "good-fortune-reality",
+    "storage_bucket": "good-fortune-reality.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430948119466:android:1983f333a2c2879c7171d3",
+        "android_client_info": {
+          "package_name": "techforward.al.com.good_fortune_reality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430948119466-f3e87l3remrl6tvarvnqclo6o3p3ubgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCdFqK3piJ2TY39yo1r6g8WNjeD7DxaDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430948119466-f3e87l3remrl6tvarvnqclo6o3p3ubgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
